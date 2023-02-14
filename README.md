@@ -1,2 +1,5 @@
 # Test-Your-Friendship-Game
 An arduino project developed that allows two players to use two joysticks separately to answer a set of questions, and shows how many questions the two people have a tacit agreement on.
+
+Each player can have one joystick, when the game display is on, You can press the left button to start the game, and if you need to reset the game you can press the right button, when you see the questions and answers on the LCD display you can move left or right on the joystick to select the answers. The buzzer will make a sound if you have the correct answers or wrong answers.
+Each player will have their own LCD screen, and it will display the current questions about one player and if you have to use your joystick to select your answers, If you choose left on the joystick you choose the left answer and if you choose right on the joystick you choose the right answers. After the game is finished it will give you the final scores, you can choose to reset the game or stop playing.
